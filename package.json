@@ -1,8 +1,8 @@
 {
+  "homepage": "http://aritrakar.github.io/personal-website-v1",
   "name": "personal-website-v1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://aritrakar.github.io/personal-website-v1",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
